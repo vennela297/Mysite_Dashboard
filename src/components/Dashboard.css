@@ -1,0 +1,29 @@
+.Dashboard {
+  display: flex;
+  flex-direction: column;
+  /* margin-right: 10px; */
+}
+
+.icons {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 200px;
+  margin: 15px 45px;
+}
+
+.table {
+  margin: 10px 25px;
+  /* text-align: center; */
+  border: none;
+}
+
+.nav__Info {
+  display: flex;
+  /* align-items: center;
+  justify-content: space-between; */
+}
+
+.form-check {
+  padding-right: 10px;
+}
