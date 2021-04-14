@@ -1,8 +1,34 @@
+step1 - npm i
+
+TECH STACK USED 1.React.js 2.material-ui 3.material-ui/core 4.material ui icons 5.react-Bootstrap 6.react-Bootstrap-icon 7.React-router-dom //from page Routing inside the app
+
+INSTRUCTIONS 1.In the Landing Page at the botton click (Task page 2) to navigate to the second Task page , and click (Task page 3) to navigate to the 3rd ui design 2.Click MYSITE inorder to navigate to the home page(the First Task page).
+
+APP SCREENSHOTS
+
+1.LANDING PAGE
+2.
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+
+
+
+
+
+
+
+
+
 
 In the project directory, you can run:
 
