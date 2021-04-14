@@ -7,7 +7,11 @@ INSTRUCTIONS 1.In the Landing Page at the botton click (Task page 2) to navigate
 APP SCREENSHOTS
 
 1.LANDING PAGE
-2.
+![WhatsApp Image 2021-04-14 at 4 38 32 PM (1)](https://user-images.githubusercontent.com/72748396/114701283-3b1a9e00-9d40-11eb-9062-7b9c40a64a7d.jpeg)
+3.TASK2 PAGE
+![WhatsApp Image 2021-04-14 at 4 38 36 PM](https://user-images.githubusercontent.com/72748396/114701400-643b2e80-9d40-11eb-9975-bb433aa98985.jpeg)
+5.TASK3 PAGE
+![WhatsApp Image 2021-04-14 at 4 38 39 PM](https://user-images.githubusercontent.com/72748396/114701526-8c2a9200-9d40-11eb-98bc-4342c28d67a0.jpeg)
 
 
 
