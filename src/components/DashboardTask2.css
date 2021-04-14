@@ -1,11 +1,3 @@
-/* .icons {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  width: 200px;
-  margin: 35px 45px;
-} */
-
 .Title {
   color: slateblue;
   margin-left: 10px;
@@ -13,4 +5,9 @@
 
 .Navbar {
   margin-top: -5px;
+}
+
+.Sub_nav {
+  padding-top: 15px;
+  padding-left: 45px;
 }

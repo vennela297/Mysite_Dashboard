@@ -20,6 +20,7 @@
 
 .nav__Info {
   display: flex;
+  padding-top: 20px;
   /* align-items: center;
   justify-content: space-between; */
 }
